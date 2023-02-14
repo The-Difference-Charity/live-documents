@@ -31,7 +31,7 @@ All charities affiliated with The Difference are subject to the below vetting st
 
 2.  Audits
 
-        1. The Difference holds the right to audit documents and financial records in relation to donations received from The Difference.
+    1. The Difference holds the right to audit documents and financial records in relation to donations received from The Difference.
 
 ---
 
