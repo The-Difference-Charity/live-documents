@@ -10,83 +10,68 @@ See our list of social and charity partners here. And if you are a NPO in need o
 
 ---
 
-<details>
-  <summary><b>How are social and charitable enterprises vetted?</b></summary>
+## How are social and charitable enterprises vetted?
+
 The Difference is proudly a charity, and non-for-profit organisation registered with the ACNC (Australian Charities and Non-for-profits Commission). We’re here to make giving simple, transparent, and automated. We only support ‘lean’ charities that responsibly spend their dollar on projects, not on large overheads.
 
 We look for the following in our social and charitable partners;
 
-<ul>
-<li>80c of each dollar $1 being used for projects</li>
-<li>Proportionately low overhead costs</li>
-<li>Impact measurement</li>
-<li>Addressing issues affecting the community</li>
-</ul>
+- 80c of each dollar $1 being used for projects
+- Proportionately low overhead costs
+- Impact measurement
+- Addressing issues affecting the community
 
 All charities affiliated with The Difference are subject to the below vetting standards;
 
-<ol>
-<li>Donation Report
+1.  Donation Report
 
-a. How a charity uses its funds donated from The Difference
+        a. How a charity uses its funds donated from The Difference
 
-b. The Difference's Social Return on Investment Model
+        b. The Difference's Social Return on Investment Model
 
-</li>
-<li>Audits
+2.  Audits
 
-a. The Difference holds the right to audit documents and financial records in relation to donations received from The Difference.
-
-</li>
-</ol>
-</details>
+        a. The Difference holds the right to audit documents and financial records in relation to donations received from The Difference.
 
 ---
 
-<details>
-  <summary><b>Does ‘The Difference’ work for online transactions?</b></summary>
+## Does ‘The Difference’ work for online transactions?
+
 The Difference works for all transactions made on your linked account, whether that is online or at a physical location.
-</details>
 
 ---
 
-<details>
-  <summary><b>What types of accounts does ‘The Difference’ support?</b></summary>
+## What types of accounts does ‘The Difference’ support?
+
 You can simply link up the credit card, debit card, or checking account of your choice.
-</details>
 
 ---
 
-<details>
-  <summary><b>How do I make sure I don’t send too much money per month?</b></summary>
-You can set a monthly limit on your donations using The Difference app. The minimum monthly limit is $5. 
-</details>
+## How do I make sure I don’t send too much money per month?
+
+You can set a monthly limit on your donations using The Difference app. The minimum monthly limit is $5.
 
 ---
 
-<details>
-  <summary><b>How secure is ‘The Difference’?</b></summary>
+## How secure is ‘The Difference’?
+
 No bank logins or other private banking information is held on file, all information is encrypted.
-</details>
 
 ---
 
-<details>
-  <summary><b>Can I track the impact of my donations?</b></summary>
+## Can I track the impact of my donations?
+
 Yes. You can set up email alerts to allow you to see what your donations have done for helping causes such as world hungers, poverty, or women's health at any time you want.
-</details>
 
 ---
 
-<details>
-  <summary><b>How do I cancel my pledge?</b></summary>
+## How do I cancel my pledge?
+
 You can cancel your pledge at any time through The Difference App.
-</details>
 
 ---
 
-<details>
-  <summary><b>I want to chat to someone; how do I contact you?</b></summary>
-Go to https://www.the-difference.org/contact and fill in the details and we will be right with you. Or contact us directly at:
+## I want to chat to someone; how do I contact you?
+
+Go [here](https://www.the-difference.org/contact "The Difference Contact Form") and fill in the details and we will be right with you. Or contact us directly at:
 info@the-difference.org
-</details>
