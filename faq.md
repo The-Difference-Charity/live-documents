@@ -25,13 +25,13 @@ All charities affiliated with The Difference are subject to the below vetting st
 
 1.  Donation Report
 
-        a. How a charity uses its funds donated from The Difference
+    1. How a charity uses its funds donated from The Difference
 
-        b. The Difference's Social Return on Investment Model
+    2. The Difference's Social Return on Investment Model
 
 2.  Audits
 
-        a. The Difference holds the right to audit documents and financial records in relation to donations received from The Difference.
+    1. The Difference holds the right to audit documents and financial records in relation to donations received from The Difference.
 
 ---
 
