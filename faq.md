@@ -1,14 +1,12 @@
-<details>
-  <summary><b>Why should I use The Difference to donate?</b></summary>
+## Why should I use The Difference to donate?
+
 Please read Our Story to understand how we need your help to change the culture of giving in the world. All of us together have the power to help others in any moment of our lives.
-</details>
 
 ---
 
-<details>
-  <summary><b>Which causes are available to donate to?</b></summary>
+## Which causes are available to donate to?
+
 See our list of social and charity partners here. And if you are a NPO in need of donations to help your cause, please contact us. Our contact details are here.
-</details>
 
 ---
 
